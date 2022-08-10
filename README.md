@@ -1,7 +1,7 @@
 # Reusable Logger Factory Pattern for Python Projects
 
-This an example project of logger factory pattern which can be used for creating separate log files for each module.
+This is an example project of logger factory pattern which can be used for creating separate logs for different modules.
 
 This logger factory creates both file handler and console handler.
 
-This logger factory implements a rollover mechanism which creates a new log file for each run.
+I'm also implementing here a rollover mechanism which creates a new log file for each application run.
